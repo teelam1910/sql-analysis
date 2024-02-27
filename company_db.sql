@@ -52,7 +52,7 @@ CREATE TABLE salaries (
 
 -------------------------------------------------------------------------------------
 
---Data Analysis
+-- Data Analysis
 -- List the employee number, last name, first name, sex, and salary of each employee
 SELECT
     e.emp_no,
@@ -77,7 +77,7 @@ WHERE
     DATE_PART('year', hire_date) = 1986;
 	
 
----- List the manager of each department along with their department number, department name, employee number, last name, and first name
+-- List the manager of each department along with their department number, department name, employee number, last name, and first name
 SELECT
     d.dept_no AS department_number,
     d.dept_name AS department_name,
