@@ -34,8 +34,8 @@ Tiffany La Mar
 
 
 ## Features
-Data Modeling done using QuickDBD
-Data Engineering and Data Analaysis using SQL Postgres
+- Data Modeling done using QuickDBD
+- Data Engineering and Data Analaysis using SQL Postgres
 ...
 
 
