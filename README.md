@@ -5,6 +5,16 @@
 Design tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data by performing data modeling, data engineering, and data analysis, respectively.
 
 ## Images
+Data Modeling
+![company_db_diagram](https://github.com/teelam1910/sql-analysis/assets/132629216/ddbae513-422b-4c42-ba3e-38e8deb8e77b)
+
+Data Engineering
+![Data Engineering Snippet](https://github.com/teelam1910/sql-analysis/assets/132629216/24293de3-e54f-4b46-9de9-99514901bea3)
+
+
+Data Analysis
+![Data Analysis Snippet](https://github.com/teelam1910/sql-analysis/assets/132629216/b0f09e85-a572-4cad-8b9b-4cc05ef4ceb7)
+
 
 ## Table of Contents
 - [Installation](#installation)
