@@ -1,8 +1,5 @@
 # SQL Analysis
-![BSD](https://img.shields.io/badge/License-BSD-blue)
 
-## Website: 
-[website](...)
 
 ## Description
 Design tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data by performing data modeling, data engineering, and data analysis, respectively.
@@ -13,9 +10,7 @@ Design tables to hold the data from the CSV files, import the CSV files into a S
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
-- [Tests](#tests)
 - [Contact](#contact)
 
 ## Installation
@@ -27,14 +22,12 @@ Research project about people whom Pewlett Hackard (a fictional company) employe
 ## Credits
 Tiffany La Mar
 
-## License
-BSD
 
 ## Features
+Data Modeling done using QuickDBD
+Data Engineering and Data Analaysis using SQL Postgres
 ...
 
-## Tests
-...
 
 ## Contact
 If there are any questions of concerns, I can be reached at:
